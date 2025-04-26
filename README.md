@@ -38,14 +38,14 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 
 1. **Download and preprocess the data**  
-   The dataset will be downloaded automatically in the notebook using torchvision or can be placed manually inside the `data/` directory.
+   Set the download parameter to True in the datasets.MNIST section to automatically download the dataset using torchvision within the notebook, or place it manually inside the data/ directory.
 
 2. **Open the Jupyter Notebook**  
    ```bash
    jupyter notebook handwritten_digit_recognition_system.ipynb
    ```
 
-3. **Execute all cells**  
+3. **Execute all cells** 
    Follow the notebook sections to train the model, plot results, and analyze performance.
 
 ---
