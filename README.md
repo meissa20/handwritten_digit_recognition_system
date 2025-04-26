@@ -11,8 +11,6 @@ The goal of this assignment is to build a neural network from scratch using PyTo
 ```
 handwritten_digit_recognition_system/
 ├── handwritten_digit_recognition_system.ipynb      # Jupyter notebook containing full code and analysis
-├── results/               # Folder for saved plots and confusion matrices
-├── data/                  # Downloaded and preprocessed MNIST dataset
 └── README.md              # Project readme file
 ```
 
